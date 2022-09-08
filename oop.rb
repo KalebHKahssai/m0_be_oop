@@ -49,7 +49,6 @@ p chocula
 
 p chocula.drink
 
-
 #  Write a Dragon class
 #  it should have a dynamic name attribute (string)
 #  it should have a dynamic rider attribute (string)
@@ -72,7 +71,6 @@ class Dragon
   end
 end
 
-
 drag1 = Dragon.new("Shenron", "Eragon", "Maleficent")
 p drag1
 
@@ -81,7 +79,6 @@ p drag1
 
 drag1.eat(8)
 p drag1
-
 
 #  Write a Hobbit class
 #  it should have a dynamic name attribute (string)
